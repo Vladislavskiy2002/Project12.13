@@ -1,0 +1,26 @@
+Debug:
+
+fltkd.lib
+wsock32.lib
+comctl32.lib
+fltkjpegd.lib
+fltkimagesd.lib
+
+Console (/ SUBSYSTEM: CONSOLE) 
+_________________________________
+_________________________________
+ 
+Release:
+
+fltk.lib
+wsock32.lib
+comctl32.lib
+fltkjpeg.lib
+fltkimages.lib
+
+Windows (/ SUBSYSTEM: WINDOWS)
+
+_________________________________
+_________________________________
+
+Теперь измените Конфигурации решения на Выпуск (Release).
